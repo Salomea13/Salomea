@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salome Samsiani</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Salome Samsiani</h1>
+        <p>Political Science Student | English Teacher | Aspiring Digital Nomad</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#blog">Blog</a>
+        <a href="#professional">Professional</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I'm Salome Samsiani, also known as Salomea. I'm a political science student, currently teaching English while learning about digital marketing. My dream is to live abroad and become a digital nomad. I'm also interested in the Chinese language and absolutely love cats. Through this website, I share my personal stories and professional journey. Welcome to my world!</p>
+        </section>
+        <section id="blog">
+            <h2>Blog</h2>
+            <p>Coming soon! Stay tuned for stories from my travels and experiences as a digital nomad in the making.</p>
+        </section>
+        <section id="professional">
+            <h2>Professional</h2>
+            <p>As an English language teacher, I offer personalized lessons to help students improve their language skills. I'm also available for interpretation services. My expertise spans from teaching beginners to advanced learners, and I am dedicated to creating an engaging learning environment.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me for collaborations, teaching inquiries, or just to connect!</p>
+            <ul>
+                <li>Email: <a href="mailto:salome.samsiani@example.com">salome.samsiani@example.com</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/salome-samsiani" target="_blank">linkedin.com/in/salome-samsiani</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Salome Samsiani. All rights reserved.</p>
+    </footer>
+</body>
+</html>
